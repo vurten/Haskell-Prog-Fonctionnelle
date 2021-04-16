@@ -16,9 +16,7 @@ CHAOUKI MOHAMED (CHAM27088802)
 
 ## Fonctionnement
 
-Pour commencer il faut faire un git clone https://gitlab.com/vurten/tp1-inf6120.git depuis le terminal. Ensuite il faut installer GHC.
-
-Une fois la ligne de commande il faut faire ghci afin de le lancer. Ensuite, il faut faire :l SmartMail.hs afin de compiler le logiciel pour pouvoir l'utiliser.
+Dans la ligne de commande il faut faire ghci afin de le lancer. Ensuite, il faut faire :l SmartMail.hs afin de compiler le logiciel pour pouvoir l'utiliser.
 
 
 ## Contenu du projet
